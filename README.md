@@ -1,4 +1,4 @@
-# UffTool â€“ YouTube Tags & SEO Studio Pro (Browser Extension)
+# UffTool - YouTube Tags & SEO Studio Pro (Browser Extension)
 
 [![Microsoft Edge Add-ons](https://img.shields.io/badge/Microsoft%20Edge%20Store-Live-blue?style=for-the-badge&logo=microsoft-edge)](https://microsoftedge.microsoft.com/addons/detail/fgojoehbnmkfogdpehkjceaiihnmcbea)
 [![Website](https://img.shields.io/badge/Official%20Website-ufftool.in-orange?style=for-the-badge&logo=google-chrome)](https://ufftool.in/rapidtags-alternative)
